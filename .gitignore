@@ -2,3 +2,5 @@
 *.css.map
 *.sass.map
 *.scss.map
+.vs/
+projeto_para_estudos/obj
