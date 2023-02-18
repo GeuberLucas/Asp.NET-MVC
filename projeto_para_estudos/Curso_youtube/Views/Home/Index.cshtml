@@ -1,0 +1,13 @@
+﻿@*a view = 1 model , porem 1 model pode estar em varias views*@
+@model HomeModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome, @Model.Name </h1>
+
+    <p> Este site pertence á Geuber Lucas, ele fez isto paras os estudos dele</p>
+    <a href:'mailto:geuberlu@gmail.com'>@Model.Email</a>
+    
+</div>
