@@ -3,5 +3,5 @@
 *.sass.map
 *.scss.map
 .vs/
-projeto_para_estudos/obj
-projeto_para_estudos/bin
+Gestao_de_clientes/Gestao_de_clientes/obj
+Gestao_de_clientes/Gestao_de_clientes/bin
